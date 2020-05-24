@@ -389,3 +389,17 @@ left: -100px;
 height: 100%;
 width: 100%;
 }
+#footer{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #111;
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+}
+#footer a{
+	color: #fff;
+	text-decoration: none;
+}
+#footer a:hover{
+	text-decoration: underline;
