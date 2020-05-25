@@ -359,15 +359,15 @@ left: -100px;
 	text-shadow: 0 0 10px #000; 
 } 
 #box3-title h1{
-	color: #000000;
+	color: #4fd900;
 	margin: 0;
 }
 #box3-title hr{
-	border-color:#959;
+	border-color:#32088a;
 
 }
-#box3-title table{
-
+#box3-title i{
+	color: #000000;
 }
 #box3-title .table-img{
 	width: 250px;
