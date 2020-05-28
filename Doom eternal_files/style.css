@@ -217,9 +217,9 @@ opacity: 1;
 		100% calc(50% + 7px),
 		100% 100%,
 		0% 100%,
-		0% calc(50% + 7px),
+		0% calc(50% - 7px),
 		calc(0% + 7px)50%,
-		0% calc(50% - 7px)
+		0% calc(50% + 7px)
 			);
 	}
 	.gold-btn:hover{
